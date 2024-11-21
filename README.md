@@ -16,7 +16,7 @@ Here’s a professional yet attractive README tailored for your GitHub profile: 
 
 - 🧠 Currently diving into the foundations of **computer science**, with interests spanning **game development**, **AI**, **quantum computing**, and **web development**.  
 - 💻 I’m building skills in **HTML**, **CSS**, **JavaScript**, and **C**, and I’m eager to grow and explore more!  
-- 🎮 Working on my **first game project** for my semester-end submission (stay tuned!).  
+- 🎮 Developed my **first game project** for my semester-end submission, **Sharktale**, using **C** Language.  
 
 ---
 
