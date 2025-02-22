@@ -22,7 +22,7 @@ Here’s a professional yet attractive README tailored for your GitHub profile: 
 
 ## 📚 What I’m Learning  
 
-- 🔍 Currently focused on **C programming** and enhancing my knowledge of **JavaScript**.  
+- 🔍 Currently focused on **C++ programming** and enhancing my knowledge of **JavaScript**.  
 - ✨ Planning to deep-dive into web development and other exciting tech fields during semester breaks.  
 
 ---
@@ -45,7 +45,7 @@ Feel free to reach out if you'd like to collaborate, share ideas, or just say hi
 
 Here’s a snapshot of what I’m currently working with:  
 - 🌐 **Frontend**: HTML, CSS, JavaScript  
-- 🔣 **Programming Languages**: C  
+- 🔣 **Programming Languages**: C++  
 
 ---
 
