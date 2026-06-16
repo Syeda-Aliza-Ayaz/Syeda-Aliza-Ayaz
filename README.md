@@ -1,3 +1,4 @@
+```
 $ echo $FAVORITE_EXCEPTION
 "TypeError: Cannot read properties of undefined (reading 'status')"
 
