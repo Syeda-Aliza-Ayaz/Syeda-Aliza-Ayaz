@@ -1,36 +1,34 @@
-```
-aliza@neduet:~$ whoami
-Syeda Aliza Ayaz — CS & IT student · builder · Karachi
-```
+```yaml
+# github.com/Syeda-Aliza-Ayaz
 
-```
-aliza@neduet:~$ cat interests.txt
-AI/ML  ·  web dev  ·  game dev  ·  making things that feel alive
-```
+profile:
+  name:      "Syeda Aliza Ayaz"
+  role:      "CS & IT @ NEDUET · Year 3"
+  based_in:  "Karachi, Pakistan"
+  status:    "building in public 🚧"
 
-```
-aliza@neduet:~$ ls ./projects
-Sharktale/    restaurant sim · C
-ForksUp/      management system · C++
-FocusForge/   productivity app · Python · CS50P final
-```
+interests:
+  - AI / ML
+  - web development
+  - game dev
+  - making things that feel alive
 
-```
-aliza@neduet:~$ pip show current-stack
-Name:      Python · C · C++ · JavaScript
-Learning:  Pandas · Matplotlib · React
-Tools:     VS Code · Git
-```
+stack:
+  languages:  [Python, C, C++, JavaScript]
+  learning:   [Pandas, Matplotlib, React]
+  tools:      [VS Code, Git]
 
-```
-aliza@neduet:~$ cat status.log
-[ YEAR 3 ]  CS & IT @ NEDUET
-[ NOW    ]  deep in AI/ML · sharpening JS · exploring web dev
-[ NEXT   ]  something i haven't built yet
-```
+shipped:
+  - name:  "Sharktale"    # restaurant sim · C
+  - name:  "ForksUp"      # management system · C++
+  - name:  "FocusForge"   # CS50P final · productivity app · Python
 
-```
-aliza@neduet:~$ ./contact.sh
-→  syedaalizaayaz.1606@gmail.com
-→  open to collabs, ideas, and interesting convos
+currently:
+  studying:   "AI/ML · data with Pandas & Matplotlib"
+  exploring:  "web dev · JS · whatever's interesting"
+  vibe:       "curious, building, figuring it out"
+
+contact:
+  email:    "syedaalizaayaz.1606@gmail.com"
+  open_to:  "collabs, ideas, interesting convos"
 ```
